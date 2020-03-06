@@ -1,2 +1,15 @@
-# ds_prog2_files
-files needed for program 2
+Program #2
+
+COSC 2030
+
+Name:
+section: 
+
+Competing: YES or NO
+
+Best run time:
+
+How to compile on linux: 
+
+Anything that doesn't work:
+
